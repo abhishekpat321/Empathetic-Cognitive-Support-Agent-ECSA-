@@ -9,6 +9,7 @@ Analyze user emotions through sentiment analysis.
 Generate adaptive and empathetic responses.
 Escalate low-confidence queries to human support.
 Simulate natural human-like conversations.
+
 🚀 Features
 Emotion Detection (Positive, Neutral, Negative)
 Transformer-Based Intent Detection
@@ -19,6 +20,7 @@ Human Typing Simulation
 Interactive Console Chatbot
 Emotion & Confidence Score Display
 Modular NLP Pipeline
+
 🛠️ Technologies Used
 Python
 Sentence Transformers
@@ -29,6 +31,7 @@ Machine Learning
 NumPy
 Pandas
 Google Colab
+
 ⚙️ AI Workflow
 Receive user query.
 Detect user emotion using TextBlob sentiment analysis.
@@ -38,6 +41,7 @@ Select an emotion-aware response.
 Calculate confidence score.
 Escalate to a human agent if confidence falls below the threshold.
 Display the chatbot response with detected emotion and confidence score.
+
 📊 Key Components
 Emotion Detection Layer
 Semantic Intent Recognition
@@ -46,6 +50,7 @@ Confidence-Based Escalation
 Humanized Conversation Flow
 Transformer Embeddings
 Cosine Similarity Matching
+
 💡 Key Learning Outcomes
 Natural Language Processing (NLP)
 Sentiment Analysis
@@ -57,6 +62,7 @@ Conversational AI
 Human-AI Interaction
 Confidence-Based Decision Making
 Customer Support Automation
+
 🌍 Applications
 Customer Support Chatbots
 E-Commerce Assistance
@@ -64,6 +70,7 @@ Banking Support Systems
 IT Helpdesk Automation
 Virtual Assistants
 AI Customer Service Platforms
+
 📈 Future Enhancements
 Voice-based conversations
 Multilingual support
@@ -72,6 +79,7 @@ RAG-powered knowledge retrieval
 Web deployment using Streamlit or Flask
 Database integration for conversation history
 Real-time API integration
+
 🔑 Key Skills
 Python
 Artificial Intelligence (AI)
